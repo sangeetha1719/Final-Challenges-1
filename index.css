@@ -31,6 +31,7 @@ body{
     width: 800px;
     padding: 10px;
     margin: 0 auto;
+    font-weight: bold;
 }
 .contact-image {
     transform: rotate(90deg);
@@ -82,4 +83,8 @@ body{
 }
 .contact-submit-button:hover {
     background-color: #dddddd;
+}
+.contact-submit-button{
+    background-color: aliceblue;
+    
 }
